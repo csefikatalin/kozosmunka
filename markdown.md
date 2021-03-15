@@ -32,15 +32,15 @@ _dőlt_
 1. itt a lista vége
 
 1. gyümölcs
-  * alma
-  * körte
-  * szilva
-  * barack
+  *alma
+  *körte
+  *szilva
+  *barack
 2. zöldség
-  * sárgarépa
-  * fehérrépa
-  * karalábé
-  * uborka
+  *sárgarépa
+  *fehérrépa
+  *karalábé
+  *uborka
 
 # Hivatkozások
 
