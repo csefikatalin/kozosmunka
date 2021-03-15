@@ -50,14 +50,14 @@ _dőlt_
 # Táblázat
 
 
-:::row:::
-   :::column span="2":::
+::: row :::
+   ::: column span="2" :::
       Két oszlopos táblázat A táblázatba csak sima szöveget és képeket tehetünk.
-   :::column-end:::
-   :::column span="2":::
+   ::: column-end :::
+   ::: column span="2" :::
       ![Doc.U.Ment](media/markdown-reference/document.png)
-   :::column-end:::
-:::row-end:::
+   ::: column-end :::
+::: row-end :::
 
 # Figyelmeztető szövegek
 
