@@ -1,12 +1,12 @@
-#Első fejezetcím
+# Első fejezetcím
 
-##Második alfejezetmcím
+## Második alfejezetmcím
 
-###Harmadik alfejezetcím
+### Harmadik alfejezetcím
 
 A bekezdéshez legalább egy üres sort tegyünk a szövegbe.
 
-#Formázások
+# Formázások
 
 
 _dőlt_
@@ -18,7 +18,7 @@ _dőlt_
 > Egyszeresen behúzott szöveg
 >> Kétszeresen behúzott szöveg
 
-#Listák
+# Listák
 
 
 *ez egy lista elem 
@@ -42,12 +42,12 @@ _dőlt_
   * karalábé
   * uborka
 
-#Hivatkozások
+# Hivatkozások
 
 
 [SzitWiki](http://szit.hu)
 
-#Táblázat
+# Táblázat
 
 
 :::row:::
@@ -59,7 +59,7 @@ _dőlt_
    :::column-end:::
 :::row-end:::
 
-#Figyelmeztető szövegek
+# Figyelmeztető szövegek
 
 
 > [!NOTE]
