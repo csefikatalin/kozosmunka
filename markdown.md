@@ -45,19 +45,12 @@ _dőlt_
 # Hivatkozások
 
 
-[SzitWiki](http://szit.hu)
+[MarkDown tutorial](https://www.markdowntutorial.com/)
 
 # Táblázat
 
 
-::: row :::
-   ::: column span="2" :::
-      Két oszlopos táblázat A táblázatba csak sima szöveget és képeket tehetünk.
-   ::: column-end :::
-   ::: column span="2" :::
-      ![Doc.U.Ment](media/markdown-reference/document.png)
-   ::: column-end :::
-::: row-end :::
+
 
 # Figyelmeztető szövegek
 
