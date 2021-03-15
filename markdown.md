@@ -21,9 +21,9 @@ _dőlt_
 # Listák
 
 
-*ez egy lista elem 
-*ez a második listaelem
-*ez a harmadik listaelem
+* ez egy lista elem 
+* ez a második listaelem
+* ez a harmadik listaelem
 
 1. Számozott lista készítése
 1. Írd be az 1. szöveget 
@@ -32,15 +32,15 @@ _dőlt_
 1. itt a lista vége
 
 1. gyümölcs
-  *alma
-  *körte
-  *szilva
-  *barack
+  * alma
+  * körte
+  * szilva
+  * barack
 2. zöldség
-  *sárgarépa
-  *fehérrépa
-  *karalábé
-  *uborka
+  * sárgarépa
+  * fehérrépa
+  * karalábé
+  * uborka
 
 # Hivatkozások
 
